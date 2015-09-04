@@ -1,4 +1,4 @@
-/*! matchHeights v1.0.0 | (c) 2015 Andrew Carlson  */
+/*! matchHeights v1.0.0 | (c) 2015 Andrew Carlson | License: https://raw.githubusercontent.com/aicarlson/matchHeights/master/LICENSE.txt */
 ;(function($) {
 
 	$.fn.matchHeights = function( exact ) {
